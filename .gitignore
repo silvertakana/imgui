@@ -1,9 +1,6 @@
 ## OSX artifacts
 .DS_Store
 
-## Dear ImGui artifacts
-imgui.ini
-
 ## General build artifacts
 *.o
 *.obj
@@ -52,7 +49,7 @@ examples/example_null/example_null
 examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 
-# Hazel-specific
+# Limux-specific
 # Directories
 bin/
 bin-int/
